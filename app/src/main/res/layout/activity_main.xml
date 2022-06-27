@@ -31,12 +31,12 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/list"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         tools:listitem="@layout/list_item_pemain"
         android:layout_marginTop="40dp"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-        tools:ignore="MissingConstraints" />
-
+        tools:ignore="MissingConstraints"
+        />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Praktek Kotlin/Recyclerview/app/src/main/res/layout/activity_main.xml" value="0.16" />
-        <entry key="..\:/Praktek Kotlin/Recyclerview/app/src/main/res/layout/list_item_pemain.xml" value="0.16032608695652173" />
+        <entry key="..\:/Praktek Kotlin/Recyclerview/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Praktek Kotlin/Recyclerview/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Praktek Kotlin/Recyclerview/app/src/main/res/layout/activity_splashscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Praktek Kotlin/Recyclerview/app/src/main/res/layout/detail_data_pemain.xml" value="0.25" />
+        <entry key="..\:/Praktek Kotlin/Recyclerview/app/src/main/res/layout/list_item_pemain.xml" value="0.2" />
       </map>
     </option>
   </component>
